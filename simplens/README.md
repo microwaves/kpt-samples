@@ -1,7 +1,7 @@
 # simplens
 
 ## Description
-Just a simple namespace blueprint
+simplens description
 
 ## Usage
 
