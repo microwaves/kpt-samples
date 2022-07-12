@@ -4,4 +4,5 @@ metadata:
   name: review-namespace
   annotations:
     config.kubernetes.io/local-config: "true"
-info: {}
+info:
+  description: review-namespace description
